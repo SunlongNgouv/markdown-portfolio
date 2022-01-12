@@ -10,3 +10,5 @@ Below is the list of my skills:
 ## Collaboration
 - Git
 - Github
+
+I want to *improve* more skills through **GitLab**
